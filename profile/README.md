@@ -35,7 +35,7 @@ In this GitHub organization, you’ll discover:
 
 Here are some of our most popular and impactful repositories:
 
-### 1️⃣ **[SyncWide Management System](https://github.com/SyncWide-Solutions/SyncWide-Management-System)**
+### 1️⃣ **[SyncWide Management](https://github.com/SyncWide-Solutions/SyncWide-Management)**
 A Python-based tool for centralized server management with real-time monitoring, OAuth authentication, and API integration.
 
 ### 2️⃣ **[SyncWide Configurator](https://github.com/SyncWide-Solutions/SyncWide-Configurator)**
