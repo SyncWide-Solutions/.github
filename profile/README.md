@@ -35,14 +35,11 @@ In this GitHub organization, you’ll discover:
 
 Here are some of our most popular and impactful repositories:
 
-### 1️⃣ **[SyncWide Management](https://github.com/SyncWide-Solutions/SyncWide-Management)**
-A Python-based tool for centralized server management with real-time monitoring, OAuth authentication, and API integration.
+### 1️⃣ **[Nexus](https://github.com/SyncWide-Solutions/Nexus)**
+Nexus is a Powerful Discord Bot written in Python, perfect for Moderation in your Discord Server.
 
 ### 2️⃣ **[SyncWide Configurator](https://github.com/SyncWide-Solutions/SyncWide-Configurator)**
 A CLI tool to automate server configurations for web, database, and application servers.
-
-### 4️⃣ **[Community Templates](https://github.com/SyncWide-Solutions/Community-Templates)**
-A collection of configuration templates, scripts, and tools contributed by our amazing community. 🌟
 
 ---
 
